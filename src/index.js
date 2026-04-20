@@ -358,3 +358,4 @@ function endGame() {
 // Start the game when page loads
 window.addEventListener("load", init);
 let highScore = 0;
+// Load high score
