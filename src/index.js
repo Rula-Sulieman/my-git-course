@@ -360,3 +360,4 @@ window.addEventListener("load", init);
 let highScore = 0;
 // Load high score
 // Logic for highest score
+let level = 1; let patternsCleared = 0;
