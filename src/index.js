@@ -359,3 +359,4 @@ function endGame() {
 window.addEventListener("load", init);
 let highScore = 0;
 // Load high score
+// Logic for highest score
