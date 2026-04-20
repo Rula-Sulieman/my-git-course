@@ -71,3 +71,4 @@ const ERROR_PATTERNS = [
     ],
   },
 ];
+// New pattern added
